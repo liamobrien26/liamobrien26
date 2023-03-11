@@ -12,7 +12,7 @@ IT QUALIFICATIONS:
 -  BTEC 90 Credit Diploma/Extended in IT
 -  Software Development Level 3 (Expected end date June 2023)
   
- CERTIFICATES FROM CODECADMEY
+ CERTIFICATES FROM CODECADMEY:
 - Learn Ruby
 <!--
 
