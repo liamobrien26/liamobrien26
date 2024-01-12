@@ -2,23 +2,16 @@
 
 BIO:
 -  New to programming
--  Studying Software Development Level 3 
--  I’m currently working on Cinema Booking app as part of my course
--  I’m currently learning C#
+-  Enrolled into Makers Bootcamp starting in March
 -  Deaf
 
 IT QUALIFICATIONS:
 -  NCFE LEVEL 2 CERTIFICATE IN UNDERSTANDING CODING
 -  BTEC 90 Credit Diploma/Extended in IT
--  Software Development Level 3 (Expected end date June 2023)
+-  Software Development Level 3 
   
  CERTIFICATES FROM Codecademy:
 - Learn Ruby
-<!--
+- Learn C#
+- Learn Python 3
 
-
-
-- 🔭 I’m currently working on Cinema Booking app as part of my course
-- 🌱 I’m currently learning C#
-
--->
