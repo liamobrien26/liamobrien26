@@ -2,7 +2,7 @@
 
 BIO:
 -  New to programming
--  Enrolled into Makers Bootcamp starting in March
+-  Enrolled onto L4 Software Engineering Apprenticeship programme with Makers
 -  Deaf
 
 IT QUALIFICATIONS:
