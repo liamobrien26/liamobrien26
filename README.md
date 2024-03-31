@@ -3,7 +3,6 @@
 BIO:
 -  New to programming
 -  Enrolled onto L4 Software Engineering Apprenticeship programme with Makers
--  Deaf
 
 IT QUALIFICATIONS:
 -  NCFE LEVEL 2 CERTIFICATE IN UNDERSTANDING CODING
