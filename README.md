@@ -9,8 +9,11 @@ IT QUALIFICATIONS:
 -  BTEC 90 Credit Diploma/Extended in IT
 -  Software Development Level 3 
   
- CERTIFICATES FROM Codecademy:
-- Learn Ruby
-- Learn C#
-- Learn Python 3
+:seedling: I'm learning
+- Java
+- Python
+- Databases
+- Kotlin
+- Javascript/React
+  
 
