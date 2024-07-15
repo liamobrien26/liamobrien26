@@ -1,19 +1,17 @@
-### Hi there, I'm Liam 👋
+# Hi there, I'm Liam 👋
 
-BIO:
--  New to programming
--  Enrolled onto L4 Software Engineering Apprenticeship programme with Makers
+## 👨‍💻 About Me
+I'm Liam, an aspiring apprentice software engineer currently enrolled in the Level 4 Software Engineering Apprenticeship program with Makers. Although I'm relatively new to programming, I'm passionate about learning and continuously improving my skills.
 
-IT QUALIFICATIONS:
--  NCFE LEVEL 2 CERTIFICATE IN UNDERSTANDING CODING
--  BTEC 90 Credit Diploma/Extended in IT
--  Software Development Level 3 
-  
-:seedling: I'm learning
-- Java
-- Python
-- Databases
-- Kotlin
-- Javascript/React
-  
+## 📚 Education & Qualifications
+- **NCFE Level 2 Certificate in Understanding Coding**
+- **BTEC 90 Credit Diploma/Extended in IT**
+- **Software Development Level 3**
+- **Level 4 Software Engineering Apprenticeship** - Makers
 
+## 🌱 Currently Learning
+- **Languages:** Java
+
+## 💻 Skills & Technologies
+- **Programming Languages:** Java, Python, Kotlin, JavaScript, C#
+- **Database Management:** PostgresSQL, MongoDB
